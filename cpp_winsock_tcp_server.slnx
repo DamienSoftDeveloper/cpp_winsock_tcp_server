@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp_winsock_tcp_server/cpp_winsock_tcp_server.vcxproj" />
+</Solution>
