@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cpp_winsock_tcp_server/cpp_winsock_tcp_server.vcxproj" />
+  <Project Path="cpp_winsock_tcp_server/cpp_winsock_tcp_server.vcxproj" Id="d1127e5e-311d-4b93-982d-f285580ef067" />
 </Solution>
